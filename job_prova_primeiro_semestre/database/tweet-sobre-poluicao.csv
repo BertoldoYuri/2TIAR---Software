@@ -1,0 +1,91 @@
+,usuario,data,texto,sentimento
+0,@usuario1,2023-06-01,O descarte de lixo na minha cidade melhorou muito com as novas políticas! #sustentabilidade,Positivo
+1,@usuario2,2023-06-02,É um absurdo como o lixo é descartado aqui. Precisamos de mais fiscalização. #MeioAmbiente,Negativo
+2,@usuario3,2023-06-03,Gostei da nova campanha de reciclagem! Muito mais fácil descartar meu lixo. #reciclagem,Positivo
+3,@usuario4,2023-06-04,A situação do lixo na praia está insustentável. Falta educação ambiental! #sos,Negativo
+4,@usuario5,2023-06-05,Ótima iniciativa da prefeitura com os novos pontos de coleta seletiva. #reciclar,Positivo
+5,@usuario6,2023-06-06,Inacreditável o descaso com o lixo nas ruas. #vergonha,Negativo
+6,@usuario7,2023-06-07,Adorei a campanha de conscientização sobre o descarte correto de lixo! #sustentabilidade,Positivo
+7,@usuario8,2023-06-08,Precisamos de mais lixeiras públicas! #lixonasruas,Negativo
+8,@usuario9,2023-06-09,Finalmente a coleta seletiva chegou ao meu bairro! #meioambiente,Positivo
+9,@usuario10,2023-06-10,É lamentável a quantidade de lixo jogada nas praias. #sos,Negativo
+10,@usuario11,2023-06-11,Muito bom ver a cidade mais limpa com a coleta seletiva. #reciclar,Positivo
+11,@usuario12,2023-06-12,Descartar lixo corretamente é um dever de todos! #conscientização,Positivo
+12,@usuario13,2023-06-13,O lixo está tomando conta das praças. Falta fiscalização! #descuidado,Negativo
+13,@usuario14,2023-06-14,As novas lixeiras nas ruas são uma excelente iniciativa. #limpezaurbana,Positivo
+14,@usuario15,2023-06-15,O governo precisa fazer mais pela coleta de lixo. #descaso,Negativo
+15,@usuario16,2023-06-16,Fiquei feliz em ver a coleta seletiva funcionando no meu condomínio. #reciclagem,Positivo
+16,@usuario17,2023-06-17,Triste ver tanto lixo nas praias. #sos,Negativo
+17,@usuario18,2023-06-18,A campanha de reciclagem é ótima! Estou participando. #reciclar,Positivo
+18,@usuario19,2023-06-19,Precisamos de mais educação sobre o descarte de lixo. #conscientização,Negativo
+19,@usuario20,2023-06-20,Muito boa a iniciativa de pontos de coleta de lixo eletrônico. #sustentabilidade,Positivo
+20,@usuario21,2023-06-21,O lixo acumulado nas ruas é um problema sério. #vergonha,Negativo
+21,@usuario22,2023-06-22,Ótima a campanha sobre reciclagem nas escolas. #educaçãoambiental,Positivo
+22,@usuario23,2023-06-23,Inaceitável o lixo sendo jogado nas calçadas. #desrespeito,Negativo
+23,@usuario24,2023-06-24,Parabéns pela nova política de coleta seletiva. #meioambiente,Positivo
+24,@usuario25,2023-06-25,"Mais lixeiras nas ruas, por favor! #limpezaurbana",Negativo
+25,@usuario26,2023-06-26,A coleta seletiva mudou a cara do meu bairro. #reciclagem,Positivo
+26,@usuario27,2023-06-27,O lixo nas praias continua um grande problema. #sos,Negativo
+27,@usuario28,2023-06-28,Estou participando da coleta de lixo eletrônico. Ótima iniciativa! #sustentabilidade,Positivo
+28,@usuario29,2023-06-29,"Mais campanhas de conscientização sobre o lixo, por favor. #educaçãoambiental",Negativo
+29,@usuario30,2023-06-30,A prefeitura está de parabéns pela coleta seletiva. #meioambiente,Positivo
+30,@usuario31,2023-07-01,É triste ver tanto lixo jogado nas ruas. #descaso,Negativo
+31,@usuario32,2023-07-02,Excelente ver a cidade mais limpa com a coleta seletiva. #reciclar,Positivo
+32,@usuario33,2023-07-03,Precisamos de mais lixeiras públicas! #lixonasruas,Negativo
+33,@usuario34,2023-07-04,A coleta de lixo eletrônico é uma ótima iniciativa. #sustentabilidade,Positivo
+34,@usuario35,2023-07-05,Inacreditável a quantidade de lixo nas praias. #sos,Negativo
+35,@usuario36,2023-07-06,Gostei muito da campanha de conscientização sobre reciclagem. #educaçãoambiental,Positivo
+36,@usuario37,2023-07-07,O lixo nas ruas é um problema que precisa ser resolvido. #vergonha,Negativo
+37,@usuario38,2023-07-08,Muito boa a iniciativa de reciclagem nas escolas. #meioambiente,Positivo
+38,@usuario39,2023-07-09,A quantidade de lixo jogada nas calçadas é alarmante. #desrespeito,Negativo
+39,@usuario40,2023-07-10,Parabéns à prefeitura pela coleta seletiva. #reciclagem,Positivo
+40,@usuario41,2023-07-11,Precisamos de mais campanhas de conscientização sobre o lixo. #educaçãoambiental,Negativo
+41,@usuario42,2023-07-12,A coleta de lixo eletrônico é uma excelente ideia. #sustentabilidade,Positivo
+42,@usuario43,2023-07-13,É triste ver tanto lixo nas ruas. #descaso,Negativo
+43,@usuario44,2023-07-14,Muito bom ver a cidade mais limpa com a coleta seletiva. #meioambiente,Positivo
+44,@usuario45,2023-07-15,A quantidade de lixo nas praias é inaceitável. #sos,Negativo
+45,@usuario46,2023-07-16,A campanha de reciclagem é ótima! #reciclar,Positivo
+46,@usuario47,2023-07-17,Precisamos de mais lixeiras públicas! #limpezaurbana,Negativo
+47,@usuario48,2023-07-18,Ótima a iniciativa de coleta seletiva. #sustentabilidade,Positivo
+48,@usuario49,2023-07-19,O lixo nas ruas continua sendo um problema. #vergonha,Negativo
+49,@usuario50,2023-07-20,Muito boa a campanha de conscientização sobre o descarte correto de lixo. #educaçãoambiental,Positivo
+50,@usuario51,2023-07-21,É lamentável a quantidade de lixo jogada nas calçadas. #desrespeito,Negativo
+51,@usuario52,2023-07-22,A coleta seletiva mudou a cara do meu bairro. #reciclagem,Positivo
+52,@usuario53,2023-07-23,Precisamos de mais campanhas de conscientização sobre o lixo. #educaçãoambiental,Negativo
+53,@usuario54,2023-07-24,Muito boa a iniciativa de reciclagem nas escolas. #meioambiente,Positivo
+54,@usuario55,2023-07-25,É inaceitável o lixo acumulado nas ruas. #descaso,Negativo
+55,@usuario56,2023-07-26,A campanha de reciclagem é excelente! #reciclar,Positivo
+56,@usuario57,2023-07-27,Precisamos de mais lixeiras públicas. #limpezaurbana,Negativo
+57,@usuario58,2023-07-28,Muito bom ver a cidade mais limpa com a coleta seletiva. #sustentabilidade,Positivo
+58,@usuario59,2023-07-29,É lamentável a quantidade de lixo nas praias. #sos,Negativo
+59,@usuario60,2023-07-30,Ótima a iniciativa de coleta seletiva. #meioambiente,Positivo
+60,@usuario61,2023-07-31,Precisamos de mais campanhas de conscientização sobre o lixo. #educaçãoambiental,Negativo
+61,@usuario62,2023-08-01,Muito boa a campanha de conscientização sobre o descarte correto de lixo. #sustentabilidade,Positivo
+62,@usuario63,2023-08-02,A quantidade de lixo nas ruas é inaceitável. #vergonha,Negativo
+63,@usuario64,2023-08-03,Muito bom ver a cidade mais limpa com a coleta seletiva. #meioambiente,Positivo
+64,@usuario65,2023-08-04,Precisamos de mais lixeiras públicas. #limpezaurbana,Negativo
+65,@usuario66,2023-08-05,Ótima a iniciativa de coleta seletiva. #reciclagem,Positivo
+66,@usuario67,2023-08-06,É lamentável a quantidade de lixo nas praias. #sos,Negativo
+67,@usuario68,2023-08-07,Muito boa a iniciativa de reciclagem nas escolas. #meioambiente,Positivo
+68,@usuario69,2023-08-08,Precisamos de mais campanhas de conscientização sobre o lixo. #educaçãoambiental,Negativo
+69,@usuario70,2023-08-09,A coleta de lixo eletrônico é uma excelente ideia. #sustentabilidade,Positivo
+70,@usuario71,2023-08-10,O lixo nas ruas é um problema que precisa ser resolvido. #descaso,Negativo
+71,@usuario72,2023-08-11,Muito boa a campanha de conscientização sobre reciclagem. #reciclar,Positivo
+72,@usuario73,2023-08-12,A quantidade de lixo nas praias é alarmante. #sos,Negativo
+73,@usuario74,2023-08-13,Ótima a iniciativa de coleta seletiva. #meioambiente,Positivo
+74,@usuario75,2023-08-14,Precisamos de mais lixeiras públicas. #limpezaurbana,Negativo
+75,@usuario76,2023-08-15,Muito bom ver a cidade mais limpa com a coleta seletiva. #reciclagem,Positivo
+76,@usuario77,2023-08-16,Precisamos de mais campanhas de conscientização sobre o lixo. #educaçãoambiental,Negativo
+77,@usuario78,2023-08-17,A coleta de lixo eletrônico é uma ótima iniciativa. #sustentabilidade,Positivo
+78,@usuario79,2023-08-18,O lixo nas ruas é um problema sério. #vergonha,Negativo
+79,@usuario80,2023-08-19,Muito boa a campanha de conscientização sobre reciclagem. #meioambiente,Positivo
+80,@usuario81,2023-08-20,Precisamos de mais campanhas de conscientização sobre o lixo. #educaçãoambiental,Negativo
+81,@usuario82,2023-08-21,Ótima a iniciativa de coleta seletiva. #sustentabilidade,Positivo
+82,@usuario83,2023-08-22,O lixo acumulado nas ruas é inaceitável. #descaso,Negativo
+83,@usuario84,2023-08-23,Muito boa a iniciativa de reciclagem nas escolas. #meioambiente,Positivo
+84,@usuario85,2023-08-24,Precisamos de mais lixeiras públicas. #limpezaurbana,Negativo
+85,@usuario86,2023-08-25,Ótima a campanha de conscientização sobre o descarte correto de lixo. #sustentabilidade,Positivo
+86,@usuario87,2023-08-26,É triste ver tanto lixo nas ruas. #vergonha,Negativo
+87,@usuario88,2023-08-27,Muito bom ver a cidade mais limpa com a coleta seletiva. #meioambiente,Positivo
+88,@usuario89,2023-08-28,Precisamos de mais campanhas de conscientização sobre o lixo. #educaçãoambiental,Negativo
+89,@usuario90,2023-08-29,A coleta de lixo eletrônico é uma excelente ideia. #sustentabilidade,Positivo
